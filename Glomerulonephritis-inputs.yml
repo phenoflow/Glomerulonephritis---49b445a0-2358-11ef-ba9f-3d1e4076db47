@@ -1,0 +1,84 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/acute-glomerulonephritis---primary.py
+inputModule3:
+  class: File
+  path: python/glomerulonephritis-chron---primary.py
+inputModule4:
+  class: File
+  path: python/endocapilary-glomerulonephritis---primary.py
+inputModule5:
+  class: File
+  path: python/glomerulonephritis-progre---primary.py
+inputModule6:
+  class: File
+  path: python/antiglomerular-glomerulonephritis---primary.py
+inputModule7:
+  class: File
+  path: python/glomerulonephritis---primary.py
+inputModule8:
+  class: File
+  path: python/glomerulonephritis-recur---primary.py
+inputModule9:
+  class: File
+  path: python/prolifrative-glomerulonephritis---primary.py
+inputModule10:
+  class: File
+  path: python/glomerulonephritis-mesang---primary.py
+inputModule11:
+  class: File
+  path: python/glomerulonephritis-syndrm---primary.py
+inputModule12:
+  class: File
+  path: python/glomerulonephritis-bright's---primary.py
+inputModule13:
+  class: File
+  path: python/glomerulonephritis-membranoprolif---primary.py
+inputModule14:
+  class: File
+  path: python/glomerulonephritis-morph---primary.py
+inputModule15:
+  class: File
+  path: python/glomerulonephritis-persist---primary.py
+inputModule16:
+  class: File
+  path: python/glomerulonephritis-deposit---primary.py
+inputModule17:
+  class: File
+  path: python/other-glomerulonephritis---primary.py
+inputModule18:
+  class: File
+  path: python/glomerulonephritis-membrane---primary.py
+inputModule19:
+  class: File
+  path: python/glomerulonephritis-glomerulosclerosis---primary.py
+inputModule20:
+  class: File
+  path: python/glomerulonephritis-specified---primary.py
+inputModule21:
+  class: File
+  path: python/glomerulonephritis-glomneph---primary.py
+inputModule22:
+  class: File
+  path: python/glomerulonephritis-glomnephritis---primary.py
+inputModule23:
+  class: File
+  path: python/nephropathy-glomerulonephritis---primary.py
+inputModule24:
+  class: File
+  path: python/glomerulonephritis-changes---primary.py
+inputModule25:
+  class: File
+  path: python/nephrotic-glomerulonephritis---primary.py
+inputModule26:
+  class: File
+  path: python/crescentic-glomerulonephritis---primary.py
+inputModule27:
+  class: File
+  path: python/membranous-glomerulonephritis---primary.py
+inputModule28:
+  class: File
+  path: python/output-cases.py
